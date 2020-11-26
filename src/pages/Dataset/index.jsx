@@ -1,7 +1,8 @@
 import React from 'react';
+import DatasetContainer from './Dataset';
 
 const Dataset = () => {
-  return <div>Dataset</div>;
+  return <DatasetContainer />;
 };
 
 export default Dataset;
